@@ -1,0 +1,12 @@
+- [x] Verify that the copilot-instructions.md file in the .github directory is created. (created)
+- [x] Clarify Project Requirements. User wants a space/orbit/sun/stars themed Three.js-powered responsive portfolio with photo, projects, and downloadable CV.
+- [x] Scaffold the Project (existing Vite React TS app present).
+- [x] Customize the Project (space-themed Three.js portfolio, projects, CV download, contact UI).
+- [x] Install Required Extensions (none requested; skipped).
+- [x] Compile the Project (npm run build ok; chunk size warning only).
+- [x] Create and Run Task (not needed for npm scripts; skipping dedicated task file).
+- [ ] Launch the Project
+- [x] Ensure Documentation is Complete (README updated; comments removed from this file).
+- Work through each checklist item systematically.
+- Keep communication concise and focused.
+- Follow development best practices.
