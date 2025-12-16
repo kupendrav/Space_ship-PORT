@@ -114,8 +114,8 @@
   </g>
 
   <!-- Title text -->
-  <text x="400" y="100" font-family="Arial, sans-serif" font-size="48" font-weight="bold" fill="#ffffff" text-anchor="middle" opacity="0">
-    <tspan x="450" dy="0">🚀 Space Portfolio</tspan>
+  <text x="450" y="100" font-family="Arial, sans-serif" font-size="48" font-weight="bold" fill="#ffffff" text-anchor="middle" opacity="0">
+    <tspan>🚀 Space Portfolio</tspan>
     <animate attributeName="opacity" values="0;1" dur="1s" begin="0s" fill="freeze"/>
   </text>
 </svg>
