@@ -339,11 +339,13 @@ function App() {
                 <span className="sr-only">LinkedIn</span>
               </a>
               <a href={socialLinks.kaggle} target="_blank" rel="noreferrer" className="icon-link" title="Kaggle">
-                <img src="public/kaggle.png" alt="" aria-hidden />
+                <img src="/kaggle.png" alt="K" aria-hidden />
                 <span className="sr-only">Kaggle</span>
               </a>
               <a href={socialLinks.twitter} target="_blank" rel="noreferrer" className="icon-link" title="X">
-                <img src="https://img.icons8.com/ios-filled/50/FFFFFF/x.png" alt="" aria-hidden />
+                <svg width="24" height="24" viewBox="0 0 24 24" fill="currentColor" aria-hidden strokeWidth="0">
+                  <path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24h-6.627l-5.1-6.658-5.712 6.658H2.88l7.73-8.835L1.08 2.25h6.82l4.607 6.114 5.737-6.114zm-1.161 17.52h1.833L7.084 4.126H5.117z"/>
+                </svg>
                 <span className="sr-only">X</span>
               </a>
             </div>
